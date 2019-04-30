@@ -25,17 +25,28 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
+      "likes": 8,
       "author": "Winston Churchhill"
     },
     {
       "id": 6,
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
+      "likes": 18,
       "author": "Newt Gingrich"
+    },
+    {
+      "quote": "To be, or not to be. That is the question.",
+      "likes": 7,
+      "author": "William Shakespeare",
+      "id": 7
+    },
+    {
+      "quote": "I came. I saw. I conquered. ",
+      "likes": 26,
+      "author": "Julius Caesar ",
+      "id": 8
     }
-
   ]
 }
