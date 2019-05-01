@@ -45,6 +45,7 @@ function renderQuote(quote){
     ulListOfQuotes.append(liEl)
 }
 
+//asd
 //render multiple quotes
 function renderQuotes(quotes){
     quotes.forEach(renderQuote)
